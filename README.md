@@ -8,11 +8,13 @@
 
 ## ToDos
 
-- [ ] Setup Server
-  - [ ] Install Dependencies
-  - [ ] Install / Setup Linter
-  - [ ] Setup Express App
-  - [ ] Setup Not Found and Error Middlewares
+- [x] Setup Server
+  - [x] Install Dependencies
+    - npm i express cors morgan helmet
+  - [x] Install / Setup Linter
+    - npm i -D eslint nodemon
+  - [x] Setup Express App
+  - [x] Setup Not Found and Error Middlewares
 - [ ] Model DB
   - What Data will we store
 - [ ] Setup Mongoose Model(s)
