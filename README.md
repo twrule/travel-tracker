@@ -10,15 +10,15 @@
 
 - [x] Setup Server
   - [x] Install Dependencies
-    - npm i express cors morgan helmet
+    - npm i express cors morgan helmet mongoose dotenv
   - [x] Install / Setup Linter
     - npm i -D eslint nodemon
   - [x] Setup Express App
   - [x] Setup Not Found and Error Middlewares
-- [ ] Model DB
+- [x] Model DB
   - What Data will we store
-- [ ] Setup Mongoose Model(s)
-- [ ] POST /logs
+- [x] Setup Mongoose Model(s)
+- [q] POST /logs
   - Create a new log entry
 - [ ] GET / logs
   - List all log entries
